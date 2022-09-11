@@ -1,6 +1,6 @@
 # System Login
 
-## I am develop this project to improve my skills
+## I developed this project to improve my skills
 
 ## Usage: 
 
